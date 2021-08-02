@@ -10,5 +10,5 @@ int main()
 {
     int a = 10;
     int b = 20;
-    cout << return_sum(a, b);
+    cout << "The sum is " << return_sum(a, b);
 }
